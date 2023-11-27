@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ad9381-3d14-49c4-b39b-b0ec66bf4578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/AfegirItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/Campesino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/Ladron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/Mercader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProvaNivell/NPC.java" afterDir="false" />
-    </list>
+    <list default="true" id="79ad9381-3d14-49c4-b39b-b0ec66bf4578" name="Changes" comment="Prova Nivell Sprint 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701073556800</updated>
     </task>
+    <task id="LOCAL-00001" summary="Prova Nivell Sprint 1">
+      <created>1701086005564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701086005564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,25 +86,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ProvaNivell/Main.java</url>
-          <line>279</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ProvaNivell/Main.java</url>
-          <line>286</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ProvaNivell/Main.java</url>
-          <line>264</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prova Nivell Sprint 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prova Nivell Sprint 1" />
   </component>
 </project>
